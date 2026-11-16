@@ -111,6 +111,8 @@ from one register to another and store the result in memory.
 4.  Stop the program.
 
 ### Assembly Program
+<img width="977" height="510" alt="image" src="https://github.com/user-attachments/assets/fc3f8363-9b0c-4e17-ba50-86430c577178" />
+
 
 ``` asm
 .MODEL SMALL
@@ -139,6 +141,7 @@ END MAIN
 -   AX = `1234H`
 -   BX = `1234H`
 -   RESULT = `1234H`
+<img width="1022" height="552" alt="image" src="https://github.com/user-attachments/assets/69a0dfe4-21f1-48c3-9c5b-51d5468bd5b8" />
 
 ### Explanation
 
@@ -165,6 +168,7 @@ Write an 8086 assembly language program to exchange the contents of two
 5.  Stop the program.
 
 ### Assembly Program
+<img width="965" height="207" alt="image" src="https://github.com/user-attachments/assets/63348ad4-7dc6-405e-bbb2-b40bddda3f71" />
 
  
 
@@ -191,6 +195,8 @@ Write an 8086 assembly language program to exchange the contents of two
 7.  Record the observed results and compare them with the expected
     results.
 ## Screenshot of the results 
+<img width="1068" height="573" alt="image" src="https://github.com/user-attachments/assets/33b493fd-1d0c-4321-b5cb-fa1a6e2cb020" />
+
 
 
 
